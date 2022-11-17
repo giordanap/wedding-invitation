@@ -4,12 +4,13 @@ img{
   }
 
 button {
-  background-color: #4CAF50; /* Green */
+  background-color: #c2be40; /* Green */
+  border-radius: 12px;
   border: none;
   color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 50px;
 }

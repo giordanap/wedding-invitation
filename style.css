@@ -6,8 +6,8 @@
 
 body {
   background-image: url('fondo.jpg');
-  background-position: left center;
-  background-size: 150%;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .form-register {
@@ -42,7 +42,7 @@ body {
 .form-register p {
   height: 40px;
   text-align: center;
-  font-size: 18px;
+  font-size: 180px;
   line-height: 40px;
 }
 
